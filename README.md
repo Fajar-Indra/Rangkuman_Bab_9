@@ -1,4 +1,4 @@
-# Rangkuman Pertemuan 9 – Perencanaan Kapabilitas TI & Roadmap Implementasi
+# Pertemuan 9 – Perencanaan Kapabilitas TI & Roadmap Implementasi
 
 Pertemuan ini membahas bagaimana organisasi merencanakan dan mengembangkan kapabilitas Teknologi Informasi (TI) agar selaras dengan strategi bisnis, serta bagaimana menyusun roadmap implementasi TI secara bertahap.
 
