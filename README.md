@@ -1,4 +1,7 @@
-# Pertemuan 9 – Perencanaan Kapabilitas TI & Roadmap Implementasi
+# Rangkuman BAB 9 Perencanaan Strategis Teknologi Informasi
+Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT. 
+
+## Pertemuan 9 – Perencanaan Kapabilitas TI & Roadmap Implementasi
 
 Pertemuan ini membahas bagaimana organisasi merencanakan dan mengembangkan kapabilitas Teknologi Informasi (TI) agar selaras dengan strategi bisnis, serta bagaimana menyusun roadmap implementasi TI secara bertahap.
 
